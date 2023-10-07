@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "end_stone",
+		"metalness_emissive_roughness": [0,1,217],
+		"heightmap": "end_stone_heightmap"
+	}
+}
